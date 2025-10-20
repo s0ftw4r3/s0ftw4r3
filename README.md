@@ -10,6 +10,6 @@
   <br/>
   <br/>
   <a href="https://www.buymeacoffee.com/s0ftw4r3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="140" alt="s0ftw4r3" /></a>
-  <a href="https://ko-fi.com/s0ftw4r3"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="70" width="160" alt="s0ftw4r3" /></a>
+  <a href="https://ko-fi.com/s0ftw4r3"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="60" width="150" alt="s0ftw4r3" /></a>
   </p>
 
